@@ -1,5 +1,3 @@
-Sure, here's a README for the Tic Tac Toe game code:
-
 # Tic Tac Toe Game
 
 This is a simple implementation of the classic Tic Tac Toe game using Python and Pygame library. It allows two players to take turns marking squares on a 3x3 grid, with the goal of getting three of their symbols in a row, column, or diagonal.
